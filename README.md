@@ -1,4 +1,4 @@
 # Medical Information Analysis and Multi-Classification
 
-<img src="https://github.com/sanazgit/PharmaNLP-Medicine-Information-Analysis-Classification/blob/main/Images/medimg.png" width="800" alt="Pharmaceutical AI infographic">
+<img src="https://www1.racgp.org.au/getattachment/cd32f3bc-b690-406d-aec2-c34c18123083/attachment.aspx" alt="Pharmaceutical AI infographic">
 
